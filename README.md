@@ -10,3 +10,6 @@ Supervised Learning can be categorised into:
 1. Classification - It uses an algorithm to accurately assign test data into specific categories. It recognizes specific entities within the dataset and attempts to draw some conclusions on how those entities should be labeled or defined. Common classification algorithms are linear classifiers, support vector machines (SVM), decision trees, k-nearest neighbor, and random forest.
 2. Regression - It is used to understand the relationship between dependent and independent variables. It is commonly used to make projections, such as for sales revenue for a given business.
 
+## Task2 : Prediction using Unsupervised ML
+What is unsupervised Machine Learning?
+- It is defined as  a machine learning technique in which models are not supervised using training dataset. Instead, models itself find the hidden patterns and insights from the given data. 
