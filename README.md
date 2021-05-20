@@ -13,3 +13,5 @@ Supervised Learning can be categorised into:
 ## Task2 : Prediction using Unsupervised ML
 What is unsupervised Machine Learning?
 - It is defined as  a machine learning technique in which models are not supervised using training dataset. Instead, models itself find the hidden patterns and insights from the given data. 
+
+## Task3 : Perform Exploratory data analysis on Retail dataset SampleSuperstore.
